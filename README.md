@@ -1,18 +1,15 @@
-<h1 align="center"><b> ❤️❤️  EZILAX V2 ❤️❤️</b></h1>
+<h1 align="center"><b> DEEP R1</b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <p align="center"><a href="https://t.me/Ezila_Updates"><img src="https://telegra.ph/file/92375b628fe722c66b24f.jpg" width="400"></a></p>
+  <p align="center"><img src="https://telegra.ph/file/92375b628fe722c66b24f.jpg" width="400"></a></p>
 <p align="center">
   <a href="https://github.com/sadew451/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 
-☆ Video by [SLSADEW BRO](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w) ☆
-
-
-# 2 Branches available. this is main brach. swith advaced fr all fetures
+# Branches available. this is main brach. swith advaced fr all fetures
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/EzilaX)
 
